@@ -1,0 +1,32 @@
+baseURL: https://yaizadancestudios.com
+Paginate: 24
+buildFuture: false
+theme: [sansoul]
+params:
+  git_url: https://github.com/yaizadancestudios/yaizadancestudios.com
+  netlify_name: yaizadancestudios
+  netlify_id: ab9d8841-c6e0-43cf-9c56-a044a9cf75e3
+  drive_link: https://drive.google.com/file/d/1hS7sBjkQxMssGZpKWnnqw1H3E2tLtKfV
+  drive_mails: yaizatododanza@gmail.com,yaizamelero1@gmail.com
+defaultContentLanguage: es
+disableLanguages: [en]
+languages:
+  es:
+    paginatePath: pagina
+    permalinks:
+      page:
+        pages: :slug
+        blog: :slug
+        events: evento/:year/:month/:day/:slug
+        products: producto/:slug
+        categories: categoria/:slug
+        tags: etiqueta/:slug
+        authors: autor/:slug
+      section:
+        pages: paginas
+        blog: blog
+        events: eventos
+        products: productos
+        categories: categorias
+        tags: etiquetas
+        authors: autores

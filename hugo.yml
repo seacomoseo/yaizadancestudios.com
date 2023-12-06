@@ -6,6 +6,7 @@ params:
   git_url: https://github.com/yaizadancestudios/yaizadancestudios.com
   netlify_name: yaizadancestudios
   netlify_id: ab9d8841-c6e0-43cf-9c56-a044a9cf75e3
+  hook: NjU0ZTE4YzE5NmMwZDc3MWViZmY0MzVh
   drive_link: https://drive.google.com/file/d/1hS7sBjkQxMssGZpKWnnqw1H3E2tLtKfV
   drive_mails: yaizatododanza@gmail.com,yaizamelero1@gmail.com
 defaultContentLanguage: es

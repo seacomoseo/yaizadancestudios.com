@@ -1,26 +1,9 @@
 title: Registro
-subtitle: ¿Qué pasos seguimos?
+subtitle: Inscripción de Clases
 icon: right-to-bracket
-rows:
-- type: steps
-  items:
-  - title: Lorem ipsum
-    subtitle: Dolor sit amet
-    icon: star
-    description: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  - title: Lorem ipsum
-    subtitle: Dolor sit amet
-    icon: star
-    description: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  - title: Lorem ipsum
-    subtitle: Dolor sit amet
-    icon: star
-    description: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  - title: Lorem ipsum
-    subtitle: Dolor sit amet
-    icon: star
-    description: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: |
+  [btn-main icon-arrow-right-to-bracket Nueva Inscripción](https://yaizadancestudios.kydemy.com/#/registration "nofollow")
+
+  [btn icon-right-to-bracket Acceso](https://yaizadancestudios.kydemy.com/ "nofollow")
+more:
+  align: center

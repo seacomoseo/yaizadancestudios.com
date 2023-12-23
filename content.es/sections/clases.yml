@@ -6,30 +6,63 @@ rows:
   design:
     num: 4
     num_xs: true
-    # color: white
-    image: fondo.jpg
-    # inset: true
-    # uppercase: true
     underline: true
     card: true
-    link: '#ejemplo'
     button: hide
   items:
   - title: Salsa y Bachata
+    anchor: Clases de Salsa y Bachata
+    image: clases/salsa-bachata.jpg
+    link: '#clases-salsa-bachata'
   - title: Estilo y Mov. Corporal
+    anchor: Clases de Estilo y Mov. Corporal
+    image: clases/estilo-mov-corporal.jpg
+    link: '#clases-estilo-mov-corporal'
   - title: Entrenamiento de Competicion
-
-  - title: Baile de Salón
+    anchor: Clases de Entrenamiento de Competicion
+    image: clases/entrenamiento-competicion.jpg
+    link: '#clases-entrenamiento-competicion'
+  - title: Bailes de Salón
+    anchor: Clases de Bailes de Salón
+    image: clases/bailes-salon.jpg
+    link: '#clases-bailes-salon'
   - title: Clásico
+    anchor: Clases de Clásico
+    image: clases/clasico.jpg
+    link: '#clases-clasico'
   - title: Contemporaneo
-
+    anchor: Clases de Contemporaneo
+    image: clases/contemporaneo.jpg
+    link: '#clases-contemporaneo'
   - title: Flamenco
+    anchor: Clases de Flamenco
+    image: clases/flamenco.jpg
+    link: '#clases-flamenco'
   - title: Sevillanas
+    anchor: Clases de Sevillanas
+    image: clases/sevillanas.jpg
+    link: '#clases-sevillanas'
   - title: Cajon Flamenco
-
+    anchor: Clases de Cajon Flamenco
+    image: clases/cajon-flamenco.jpg
+    link: '#clases-cajon-flamenco'
   - title: Hip-Hop
+    anchor: Clases de Hip-Hop
+    image: clases/hip-hop.jpg
+    link: '#clases-hip-hop'
   - title: Fusión
+    anchor: Clases de Fusión
+    image: clases/fusion.jpg
+    link: '#clases-fusion'
   - title: Full Dance
-
+    anchor: Clases de Full Dance
+    image: clases/full-dance.jpg
+    link: '#clases-full-dance'
   - title: Danza del Vientre
+    anchor: Clases de Danza del Vientre
+    image: clases/danza-vientre.jpg
+    link: '#clases-danza-vientre'
   - title: Pilates
+    anchor: Clases de Pilates
+    image: clases/pilates.jpg
+    link: '#clases-pilates'

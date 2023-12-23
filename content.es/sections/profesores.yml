@@ -1,0 +1,52 @@
+title: Profesores
+subtitle: ¿Qué procesos seguimos?
+icon: people-group
+rows:
+- type: columns
+  design:
+    num: 4
+    num_xs: true
+    button: hide
+  items:
+  - title: Yaiza Melero
+    image: profesores/yaiza.jpg
+    link: '#profesores-yaiza'
+  - title: Felipe Baños
+    image: profesores/felipe.jpg
+    link: '#profesores-felipe'
+  - title: Lucía
+    image: profesores/lucia.jpg
+    link: '#profesores-lucia'
+  - title: Khaled
+    image: profesores/khaled.jpg
+    link: '#profesores-khaled'
+  - title: Carmen
+    image: profesores/carmen.jpg
+    link: '#profesores-carmen'
+  - title: Adrián
+    image: profesores/adrian.jpg
+    link: '#profesores-adrian'
+  - title: Nacho
+    image: profesores/nacho.jpg
+    link: '#profesores-nacho'
+  - title: Virginia
+    image: profesores/virginia.jpg
+    link: '#profesores-virginia'
+  - title: Silvia
+    image: profesores/silvia.jpg
+    link: '#profesores-silvia'
+  - title: Natalia
+    image: profesores/natalia.jpg
+    link: '#profesores-natalia'
+  - title: Melania
+    image: profesores/melania.jpg
+    link: '#profesores-melania'
+  - title: Lisa
+    image: profesores/lisa.jpg
+    link: '#profesores-lisa'
+  - title: Guillermo
+    image: profesores/guillermo.jpg
+    link: '#profesores-guillermo'
+  - title: Barito
+    image: profesores/barito.jpg
+    link: '#profesores-barito'

@@ -18,11 +18,11 @@ general:
   padding_hide: false
   padding_top: null
   padding_bottom: null
-  color: light
+  color: link-dark
   gradient: ''
   gradient_type: ''
-  bg: ''
-  opacity: 30
+  bg: bg-stripes.svg
+  opacity: 100
   parallax: true
   pill: false
   size: ''
@@ -38,3 +38,4 @@ alternate:
 - flip_x: true
   flip_y: true
   color: white
+  bg: ''

@@ -1,10 +1,9 @@
 anchor: Yaiza Dance Studios - Academia de Baile en Santiago de la Ribera, Murcia
 # title: Yaiza Dance Studios
 # subtitle: Academia de Baile en Santiago de la Ribera, Murcia
-color: main-dark
 image: icon-alt.svg
-bg: bg-stripes.svg
-# gradient: dark
+# color: main-dark
+# bg: bg-stripes.svg
 description: |
   **ESTUDIO DE DANZA** \
   Santiago de la Ribera, Murcia
@@ -14,5 +13,4 @@ more:
   full_screen: true
   image_min: 18
   image_max: 20
-  parallax: true
-  opacity: 100
+  # opacity: 100

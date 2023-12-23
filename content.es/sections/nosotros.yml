@@ -28,5 +28,7 @@ rows:
       Consectetur adipiscing elit.
       Sed do eiusmod tempor incididunt.
       Ut labore et dolore magna aliqua.
+
+      [btn icon-circle-info Normas](#normas)
     more:
       align_y: center

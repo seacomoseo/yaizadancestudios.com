@@ -29,6 +29,12 @@
   text-transform: uppercase;
 }
 
+#profesores {
+  .column__header {
+    @extend .hide;
+  }
+}
+
 .contact__address {
   display: flex;
   justify-content: center;

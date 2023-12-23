@@ -1,13 +1,13 @@
-title: Instalaciones
+title: Fotos
 subtitle: ¿Cómo son nuestras instalaciones?
-icon: house-heart
+icon: aperture
 rows:
 - type: gallery
   design:
     max: 99
     num: 3
     alt: true
-    wrap: true
+    wrap: false
     gap: true
     cover: true
     grayscale: false

@@ -1,11 +1,10 @@
-title: Servicios
+title: Equipo
 subtitle: ¿Qué procesos seguimos?
-icon: rocket-launch
+icon: people-group
 rows:
 - type: columns
   design:
     num_xs: true
-    color: white
     image: fondo.jpg
     inset: true
     uppercase: true

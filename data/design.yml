@@ -5,39 +5,39 @@ icons:
 fonts:
   google: true
   base:
-    family: Montserrat
+    family: Montserrat Alternates
     weight: 400
     strong: 0
-    italic: false
+    italic: true
     line-height: 1.25
   cursive:
-    family: Dancing Script
-    weight: 400
+    family: Montserrat
+    weight: 500
     strong: 0
-    italic: false
+    italic: true
     line-height: 1.25
     top: 0
   title:
     family: Montserrat
     weight: 800
     strong: 0
-    italic: false
+    italic: true
     line-height: 1.25
     top: 0
   blockquote_cursive: false
 colors:
   main:
-    color: '#bdd5ea'
+    color: '#7c68ab'
     light: '#fff'
     dark: '#fff'
     contrast: text
   alt:
-    color: '#fff'
+    color: '#5c1f62'
     light: '#fff'
     dark: '#fff'
     contrast: all
   link:
-    color: '#fe5f55'
+    color: '#803c8f'
     light: '#fff'
     dark: '#fff'
     contrast: text
@@ -45,11 +45,11 @@ colors:
     white: '#fff'
     light: '#eee'
     grey: '#767676'
-    dark: '#282525'
+    dark: '#1d1d1c'
     black: '#000'
 rounded:
-  radius: 0.33
-  chamfer: false
+  radius: 1.33
+  chamfer: true
 buttons:
   sides_round: false
   icon_circle: false

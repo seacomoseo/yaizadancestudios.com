@@ -1,0 +1,41 @@
+title: Feedback
+subtitle: ¿Qué dicen de nosotros?
+icon: comment
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: white
+    slider: true
+  items:
+  - title: Emmanuel V.
+    description: |
+      Formación de calidad, se centrar en la enseñanza y soy muy amables.
+
+      Además cuentan con formadores de clase mundial como Yaiza Melero, Fabián y Fania y traen otros formadores de renombre internacional como Alba Sánchez de Ronal y Alba.
+
+      Si queréis aprender a bailar y disfrutar del proceso este es sin lugar a dudas el sitio.
+
+      Instalaciones nuevas y muy bien cuidadas y gente muy amable.
+  - title: Graci E.
+    description: |
+      Es fantástico el estudio. Yo asisto a clases de flamenco y sevillanas desde hace años.
+
+      Son grandes profesores. Profesionales y educados además de cercanos y motivadoras.
+
+      La dirección es muy buena. Haciendo una gran apuesta ante la adversidad por el baile.
+  - title: Adan C.
+    description: |
+      Grandes profesionales, instalaciones muy bonitas.
+
+      Si quieres aprender salsa de manera correcta sin duda es lugar recomendado
+  - title: Alicia C.
+    description: |
+      Muy buena experiencia llevo 5 años y estoy encantada.
+  - title: Natalia M.
+    description: |
+      Excepcional calidad y profesionalidad, la mejor enseñanza técnica para dance.
+- type: columns
+  items:
+  - description: |
+      [btn icon-star Más reseñas](https://g.page/webmurcia/review "noindex")

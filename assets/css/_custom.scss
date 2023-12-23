@@ -12,9 +12,7 @@
 }
 #body-inicio #header {
   .image {
-    path {
-      fill: var(--text);
-    }
+    color: var(--text);
     transform-origin: center;
     animation: logo-drop 1s 0s both;
   }
@@ -25,4 +23,15 @@
   .subtitle {             @include show-up(2); }
   .description p {        @include show-up(3); }
   .description .buttons { @include show-up(4); }
+}
+
+.subtitle {
+  text-transform: uppercase;
+}
+
+.contact__address {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 0.375em;
 }

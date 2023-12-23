@@ -1,16 +1,16 @@
-title: SanSoul Hugo Theme EXAMPLE
-description: SanSoul is the Hugo theme website services soul by lorensansol, you can copy and use like you want
+title: Yaiza Dance Studios
+description: Academia de Baile en Santiago de la Ribera, Murcia. Estudio de danza, venta de artículos de danza, espectáculo y todo tipo de eventos.
 logo: logo.png
-legal_name: Nombre Legal de Ejemplo
-legal_dni: 12345678-A
-legal_email: ''
-legal_location: ''
+legal_name: Yaiza Melero Tortosa
+legal_dni: 49444949D
+legal_email: yaizatododanza@gmail.com
+legal_location: Av. Bartolomé Paños Pérez, 22, 30720 Santiago de la Ribera, Murcia
 country: España
 location_type:
 - LocalBusiness
 - Organization
 alternate_name:
-- SanSoul
+- YAIZA DANCE STUDIOS
 price_range: €€
 google_analytics: G-05JQJWNHZL
 google_site_verification: ''
@@ -21,7 +21,7 @@ analytics_pagespeed: true
 process_all_images: false
 cms: true
 cms_editorial_workflow: false
-development: false
+development: true
 custom_code:
   html_head:
     code: ''
@@ -35,12 +35,8 @@ custom_code:
     code: ''
     lang: javascript
 social:
-- link: https://www.facebook.com/QuantumFracture
-- link: https://www.instagram.com/quantumfracture/
-- link: https://www.youtube.com/channel/UCbdSYaPD-lr1kW27UJuk8Pw
-- link: https://twitter.com/QuantumFracture
-- link: https://www.linkedin.com/company/quantum-fracture
-- link: https://gitlab.com/lorensansol
-- link: https://github.com/lorensansol
-- link: https://mastersoflol.com/collections/quantumfracture?YTC
+- link: https://www.instagram.com/yaizadancestudios/
+- link: https://www.facebook.com/estudiodedanzayaiza
+- link: https://yaizamelero.com/
+  icon: arrow-pointer
 

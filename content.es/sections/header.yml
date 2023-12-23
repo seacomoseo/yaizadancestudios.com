@@ -1,11 +1,13 @@
-title: SanSoul Hugo Theme
-subtitle: SanSoul es un tema de Hugo con alma para webs de servicios por lorensansol
+anchor: Yaiza Dance Studios - Academia de Baile en Santiago de la Ribera, Murcia
+# title: Yaiza Dance Studios
+# subtitle: Academia de Baile en Santiago de la Ribera, Murcia
 color: main-dark
-image: logo.svg
-bg: fondo.jpg
-gradient: dark
+image: icon-alt.svg
+bg: bg-stripes.svg
+# gradient: dark
 description: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  **ESTUDIO DE DANZA** \
+  Santiago de la Ribera, Murcia
 
   [btn icon-plus Más](#principal)
 more:
@@ -13,4 +15,4 @@ more:
   image_min: 18
   image_max: 20
   parallax: true
-  gradient_type: linear-r
+  opacity: 100

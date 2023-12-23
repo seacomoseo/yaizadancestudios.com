@@ -1,0 +1,35 @@
+title: Clases
+subtitle: ¿Qué procesos seguimos?
+icon: waveform
+rows:
+- type: columns
+  design:
+    num: 4
+    num_xs: true
+    # color: white
+    image: fondo.jpg
+    # inset: true
+    # uppercase: true
+    underline: true
+    card: true
+    link: '#ejemplo'
+    button: hide
+  items:
+  - title: Salsa y Bachata
+  - title: Estilo y Mov. Corporal
+  - title: Entrenamiento de Competicion
+
+  - title: Baile de Salón
+  - title: Clásico
+  - title: Contemporaneo
+
+  - title: Flamenco
+  - title: Sevillanas
+  - title: Cajon Flamenco
+
+  - title: Hip-Hop
+  - title: Fusión
+  - title: Full Dance
+
+  - title: Danza del Vientre
+  - title: Pilates

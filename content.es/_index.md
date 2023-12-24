@@ -9,6 +9,8 @@ noindex: false
 translationKey: home
 sections:
 - file: header
+- file: destacamos
+- file: frase
 - file: nosotros
   modals:
   - normas
@@ -45,7 +47,7 @@ sections:
   - profesores-guillermo
   - profesores-barito
 - file: fotos
-- file: asesoramiento
+- file: orientacion
 - file: feedback
 - file: contacto
 - file: registro

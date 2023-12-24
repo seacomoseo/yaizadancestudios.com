@@ -24,7 +24,7 @@ fonts:
     italic: true
     line-height: 1.25
     top: 0
-  blockquote_cursive: false
+  blockquote_cursive: true
 colors:
   main:
     color: '#7c68ab'

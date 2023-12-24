@@ -1,0 +1,50 @@
+title: Destacamos
+subtitle: Nos caracteriza
+icon: certificate
+rows:
+- type: columns
+  design:
+    num: 4
+    underline: true
+    # slider: true
+  items:
+  - title: Formación Profesional
+    subtitle: Excelencia en Cada Paso
+    icon: graduation-cap
+    description: |
+      Ofrecemos un programa integral para desarrollar habilidades técnicas y artísticas de alto nivel.
+  - title: '[Asesoramiento Profesional](#asesoramiento)'
+    subtitle: Programa de Orientación Experta
+    icon: people-pulling
+    description: |
+      Brindamos orientación personalizada para que alcances tu máximo potencial artístico.
+  - title: Profesores Titulados
+    subtitle: Maestros de la Danza
+    icon: diploma
+    description: |
+      Nuestro equipo docente está formado por profesionales titulados y apasionados por enseñar.
+  - title: Salidas Profesionales
+    subtitle: Tu Futuro en la Danza
+    icon: circle-check
+    description: |
+      Preparamos a los estudiantes para una exitosa carrera profesional en diversos ámbitos de la danza.
+  - title: Grupos de Competición
+    subtitle: Brillando en el Escenario
+    icon: ranking-star
+    description: |
+      Fomentamos el talento y la competitividad con grupos preparados para destacar en reputados torneos.
+  - title: Club <br> Federado
+    subtitle: Comprometidos con la Excelencia
+    icon: trophy-star
+    description: |
+      Participamos en eventos oficiales, promoviendo la calidad y el espíritu deportivo.
+  - title: Calidad Auténtica
+    subtitle: Arte y Técnica Unidos
+    icon: stars
+    description: |
+      Nos enfocamos en ofrecer una formación de calidad, combinando técnica rigurosa y expresión artística.
+  - title: Diversión Asegurada
+    subtitle: Aprender Disfrutando
+    icon: face-laugh-beam
+    description: |
+      Un ambiente donde la pasión y la alegría por la danza se viven en cada paso.

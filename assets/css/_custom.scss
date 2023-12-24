@@ -11,6 +11,13 @@
   }
 }
 #body-inicio #header {
+  .bg-figure:after {
+    content: '';
+    @include like-bg-cover;
+    background-image: url('/media/bg-stripes.min.svg');
+    background-attachment: fixed;
+    background-size: cover;
+  }
   .image {
     color: var(--text);
     transform-origin: center;

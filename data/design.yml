@@ -45,7 +45,7 @@ colors:
     white: '#fff'
     light: '#eee'
     grey: '#767676'
-    dark: '#1d1d1c'
+    dark: '#171717' #1d1d1c
     black: '#000'
 rounded:
   radius: 1.33

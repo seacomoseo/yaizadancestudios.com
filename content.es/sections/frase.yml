@@ -1,8 +1,6 @@
 anchor: Frase
 description: |
-  icon-quote-left Como molamos icon-quote-right
-  {.h3}
-
-  > Como molamos
+  > Bailar es soñar con los pies
+  {.quotes .h1}
 more:
   align: center

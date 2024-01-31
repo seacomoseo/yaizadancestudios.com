@@ -17,7 +17,10 @@
     background-image: url('/media/bg-stripes.min.svg');
     background-attachment: fixed;
     background-size: cover;
-    opacity: .75;
+    opacity: .5;
+  }
+  .bg-figure-image {
+    object-position: 50% 40%;
   }
   #logo-yaiza {      animation: show-from .5s 0.25s both; --show-from: translateX(-3rem); }
   #logo-dance {      animation: show-from .5s 0.50s both; --show-from: translateX(3rem); }
@@ -47,4 +50,10 @@
   justify-content: center;
   align-items: flex-start;
   gap: 0.375em;
+}
+
+#body-fotos {
+  .logo__link {
+    justify-content: center;
+  }
 }

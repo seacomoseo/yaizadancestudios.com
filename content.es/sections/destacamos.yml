@@ -1,6 +1,8 @@
 title: Destacamos
 subtitle: Nos caracteriza
 icon: certificate
+more:
+  button: hide
 rows:
 - type: columns
   design:

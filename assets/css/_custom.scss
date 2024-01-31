@@ -57,3 +57,41 @@
     justify-content: center;
   }
 }
+
+
+
+.horarios {
+  white-space: nowrap;
+  strong {
+    color: var(--alt);
+  }
+  th:not(:first-child) {
+    position: relative;
+    z-index: 10;
+    background-color: inherit;
+  }
+  tr {
+    position: relative;
+    td:first-child {
+      position: absolute;
+      width: 4.5em;
+    }
+    td:nth-child(2) {
+      text-align: center;
+    }
+    &:nth-child(3n + 1) {
+      td:first-child {
+        height: 300%;
+        z-index: 10;
+        display: flex;
+        align-items: center;
+      }
+    }
+    &:nth-child(3n + 2) td:nth-child(2) code {
+      background-color: var(--link);
+    }
+    &:nth-child(3n + 3) td:nth-child(2) code {
+      background-color: var(--dark);
+    }
+  }
+}

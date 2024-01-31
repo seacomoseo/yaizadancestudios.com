@@ -46,6 +46,8 @@ sections:
   - profesores-lisa
   - profesores-guillermo
   - profesores-barito
+- file: horarios
+- file: tarifas
 - file: fotos
 - file: orientacion
 - file: feedback

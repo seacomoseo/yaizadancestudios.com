@@ -1,0 +1,49 @@
+title: Tarifas
+subtitle: 2023 - 2024
+icon: tags
+rows:
+- type: columns
+  design:
+    underline: true
+  items:
+  - title: INFANTILES
+    icon: child-reaching
+    description: |
+      Matrícula <br>
+      **35€**
+      {.subtitle}
+
+      Mensualidad
+      {.subtitle}
+
+      - icon-none 1 curso: **30€**
+      - icon-none 2 cursos: **50€**
+      - icon-none 3 cursos: **70€**
+      - icon-none Más: **+20€/curso**
+  - title: PEQUES, MEDIANOS <br> Y JUNIOR
+    icon: person-simple
+    description: |
+      Matrícula <br>
+      **35€**
+      {.subtitle}
+
+      Mensualidad
+      {.subtitle}
+
+      - icon-none 1 curso: **35€**
+      - icon-none 2 cursos: **55€**
+      - icon-none 3 cursos: **75€**
+      - icon-none Más: **+20€/curso**
+  - title: ADULTOS
+    icon: person
+    description: |
+      Matrícula <br>
+      **15€**
+      {.subtitle}
+
+      Mensualidad
+      {.subtitle}
+
+      - icon-none 1 curso: **35€**
+      - icon-none 2 cursos: **60€**
+      - icon-none Más: **+25€/curso**

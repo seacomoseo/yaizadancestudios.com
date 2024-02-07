@@ -59,9 +59,9 @@ buttons:
 shadow:
   left: 0.15
   top: 0.15
-  blur: 0
+  blur: 0.15
   color: black
-  opacity: 0.15
+  opacity: 0.3
 lightbox_overlay:
   opacity: 0.8
   color: black

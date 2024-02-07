@@ -9,26 +9,33 @@ rows:
   items:
   - image: actuacion.jpg
   - description: |
-      Lorem ipsum dolor sit amet.
-      Consectetur adipiscing elit.
-      Sed do eiusmod tempor incididunt.
-      Ut labore et dolore magna aliqua.
+      Escuela de danza especializada en diferentes disciplinas cómo Urbano , Flamenco, clásico, Contemporáneo, Salsa y Bachata, Danza del Vientre, Full Dance, Pilates etc… 
 
-      Lorem ipsum dolor sit amet.
-      Consectetur adipiscing elit.
-      Sed do eiusmod tempor incididunt.
-      Ut labore et dolore magna aliqua.
+      Abierta desde hace 12 años con clases para todas las edades.
 
-      Lorem ipsum dolor sit amet.
-      Consectetur adipiscing elit.
-      Sed do eiusmod tempor incididunt.
-      Ut labore et dolore magna aliqua.
+      Este año han abierto su club deportivo para participar en en la federación de baile deportivo y asistir a competiciones oficiales con sus deportistas. 
 
-      Lorem ipsum dolor sit amet.
-      Consectetur adipiscing elit.
-      Sed do eiusmod tempor incididunt.
-      Ut labore et dolore magna aliqua.
+      No es solo una escuela para aprender a bailar y disfrutar de una actividad extra escolar si no también para formar a bailarines profesionales que quieran dedicarse a ello.
 
       [btn icon-circle-info Normas](#normas)
+  - image: yaiza-melero.png
+    order: 2
     more:
-      align_y: center
+      ratio: 1x1
+      contain: true
+  - description: |
+      Sobre Yaiza Melero
+      {.h3}
+
+      > El baile para mi es disciplina, sacrificio, refugio, felicidad, constancia, libertad y disfrute.
+      > 
+      > Son tantos los valores que nos  aporta el baile, que la gente no es cociente de ello.
+      > 
+      > No es solo un talento o una habilidad o un deporte que la gente practica y hace si no que es una actividad que tienen lugar para todo el mundo y que puede llegar a conectar a muchas personas diferentes y de sitios diferentes.
+      > 
+      > El baile es el deporte más maravilloso que existe.
+      {.font-base}
+
+      [btn-main-font-alt icon-link yaizamelero.com](https://yaizamelero.com)
+    more:
+      align: center

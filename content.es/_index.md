@@ -15,21 +15,21 @@ sections:
   modals:
   - normas
 - file: clases
-  modals:
-  - clases-salsa-bachata
-  - clases-estilo-mov-corporal
-  - clases-entrenamiento-competicion
-  - clases-bailes-salon
-  - clases-clasico
-  - clases-contemporaneo
-  - clases-flamenco
-  - clases-sevillanas
-  - clases-cajon-flamenco
-  - clases-hip-hop
-  - clases-fusion
-  - clases-full-dance
-  - clases-danza-vientre
-  - clases-pilates
+  # modals:
+  # - clases-salsa-bachata
+  # - clases-estilo-mov-corporal
+  # - clases-entrenamiento-competicion
+  # - clases-bailes-salon
+  # - clases-clasico
+  # - clases-contemporaneo
+  # - clases-flamenco
+  # - clases-sevillanas
+  # - clases-cajon-flamenco
+  # - clases-hip-hop
+  # - clases-fusion
+  # - clases-full-dance
+  # - clases-danza-vientre
+  # - clases-pilates
 - file: profesores
   modals:
   - profesores-yaiza

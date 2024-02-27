@@ -1,7 +1,7 @@
 
 # yaizatododanza.es
 
-https://www.yaizatododanza.es/ page_id=13 / 301!
+https://www.yaizatododanza.es/ page_id=13 / 301
 https://www.yaizatododanza.es/categoria-producto/decoracion/ /
 https://www.yaizatododanza.es/categoria-producto/zapatos/ /
 https://www.yaizatododanza.es/clases-online* /

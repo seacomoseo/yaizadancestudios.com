@@ -6,7 +6,7 @@ https://www.yaizatododanza.es/categoria-producto/decoracion/ /
 https://www.yaizatododanza.es/categoria-producto/zapatos/ /
 https://www.yaizatododanza.es/clases-online* /
 https://www.yaizatododanza.es/eventos/ /
-https://www.yaizatododanza.es/galeria* /#fotos
+https://www.yaizatododanza.es/galeria* /fotos/
 https://www.yaizatododanza.es/portada* /
 https://www.yaizatododanza.es/portada* /
 https://www.yaizatododanza.es/portfolio* /

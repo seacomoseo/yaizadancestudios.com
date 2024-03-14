@@ -4,8 +4,9 @@ icon: waveform
 rows:
 - type: columns
   design:
-    num: 4
+    num: 5
     num_xs: true
+    title_size: .8
     underline: true
     card: true
     button: hide

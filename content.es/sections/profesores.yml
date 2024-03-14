@@ -4,7 +4,7 @@ icon: people-group
 rows:
 - type: columns
   design:
-    num: 4
+    num: 5
     num_xs: true
     button: hide
   items:
@@ -47,6 +47,6 @@ rows:
   - title: Guillermo
     image: profesores/guillermo.jpg
     link: '#profesores-guillermo'
-  - title: Barito
-    image: profesores/barito.jpg
-    link: '#profesores-barito'
+  # - title: Barito
+  #   image: profesores/barito.jpg
+  #   link: '#profesores-barito'

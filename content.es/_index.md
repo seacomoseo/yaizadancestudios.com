@@ -45,7 +45,7 @@ sections:
   - profesores-melania
   - profesores-lisa
   - profesores-guillermo
-  - profesores-barito
+  # - profesores-barito
 - file: horarios
 - file: tarifas
 - file: fotos

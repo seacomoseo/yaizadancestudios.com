@@ -15,9 +15,9 @@ rows:
     anchor: Clases de Salsa y Bachata
     image: clases/salsa-bachata.jpg
     # link: '#clases-salsa-bachata'
-  - title: Estilo y Mov. Corporal
-    anchor: Clases de Estilo y Mov. Corporal
-    image: clases/estilo-mov-corporal.jpg
+  - title: Estilo y Movimiento Corporal
+    anchor: Clases de Estilo y Movimiento Corporal
+    image: clases/estilo-movimiento-corporal.jpg
     # link: '#clases-estilo-mov-corporal'
   - title: Entrenamiento de Competicion
     anchor: Clases de Entrenamiento de Competicion

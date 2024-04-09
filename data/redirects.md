@@ -10,7 +10,7 @@ https://www.yaizatododanza.es/portada* /
 https://www.yaizatododanza.es/portfolio* /
 https://www.yaizatododanza.es/tienda* /
 https://www.yaizatododanza.es/yaizamelero* /
-https://www.yaizatododanza.es/zoom-meetings/tango/ /
+https://www.yaizatododanza.es/zoom-meetings* /
 
 ## general
 https://yaizatododanza.es/* https://yaizadancestudios.com/:splat 301!

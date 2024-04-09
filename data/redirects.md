@@ -1,19 +1,19 @@
 
 # yaizatododanza.es
-https://*yaizatododanza.es/politica-de-cookies/ https://yaizadancestudios.com/cookies/
-https://*yaizatododanza.es/contacto/ https://yaizadancestudios.com/#contacto
-https://*yaizatododanza.es/eventos/ https://yaizadancestudios.com/
-https://*yaizatododanza.es/estudio-de-danza/ https://yaizadancestudios.com/
-https://*yaizatododanza.es/galeria* https://yaizadancestudios.com/#fotos
-https://*yaizatododanza.es/categoria-producto* https://yaizadancestudios.com/
-https://*yaizatododanza.es/clases-online* https://yaizadancestudios.com/
-https://*yaizatododanza.es/portada* https://yaizadancestudios.com/
-https://*yaizatododanza.es/portfolio* https://yaizadancestudios.com/
-https://*yaizatododanza.es/tienda* https://yaizadancestudios.com/
-https://*yaizatododanza.es/yaizamelero* https://yaizadancestudios.com/
-https://*yaizatododanza.es/zoom-meetings* https://yaizadancestudios.com/
-https://*yaizatododanza.es/wp-admin* https://yaizadancestudios.com/
-https://*yaizatododanza.es/author/* https://yaizadancestudios.com/
+/politica-de-cookies/ /cookies/
+/contacto/ /#contacto
+/eventos/ /
+/estudio-de-danza/ /
+/galeria* /#fotos
+/categoria-producto* /
+/clases-online* /
+/portada* /
+/portfolio* /
+/tienda* /
+/yaizamelero* /
+/zoom-meetings* /
+/wp-admin* /
+/author/* /
 
 ## general
 https://yaizatododanza.es/* https://yaizadancestudios.com/:splat 301!

@@ -1,28 +1,36 @@
 title: Horarios
-subtitle: 2023 - 2024
+subtitle: 2025 - 2026
 icon: calendar-days
-description: |
-  | Hora  | Sala | Lunes y Miércoles     | Martes y Jueves               | Viernes             |
-  | ----- | ---- | --------------------- | ----------------------------- | ------------------- |
-  | 16:15 | `1`  | **Hip Hop** Youth     | **Fusión** 4                  | **Salsa** Medianas  |
-  |       | `2`  | **Salsa** Kids        | **Fusión** 2                  |                     |
-  |       | `3`  |                       | **Clásico** Inicio            |                     |
-  | 17:15 | `1`  | **Hip Hop** Peques    | **Fusión** 3                  | **Cajón**           |
-  |       | `2`  | **Flamenco** Peques 2 | **Babys** 2                   | **Salsa** Kids Mini |
-  |       | `3`  | **Babys** 1           | **Fusión** Medianos 1         |                     |
-  | 18:15 | `1`  | **Hip Hop** +18       | **Clásico** Peq / Mini Danza  | **Fusión** 1        |
-  |       | `2`  | **Flamenco** Peques 1 | **Salsa** Peques 2            | **Sevillanas**      |
-  |       | `3`  | **Fusión** Medianos 2 | **Fusión** Medianos 3         | **Salsanama**       |
-  | 19:15 | `1`  | **Entr. Competición** | **Clásico** Junior            |                     |
-  |       | `2`  | **Flamenco** Medianos | **Salsa** Peques 1            | **Baile Deportivo** |
-  |       | `3`  | **Full Dance**        | **Full Dance**                |                     |
-  | 20:15 | `1`  | **SyB** Básico        | **Estilo SyB** Intermedio     |                     |
-  |       | `2`  | **Flamenco** Junior   | **Pilates**                   |                     |
-  |       | `3`  | **Baile de Salón**    | **Estilo Chico**              |                     |
-  | 21:15 | `1`  | **SyB** Inicio        | **SyB** Intermedio / Avanzado |                     |
-  |       | `2`  | **Flamenco** Adultos  | **Danza del Vientre**         |                     |
-  |       | `3`  | **Salsa Cubana**      | **Estilo SyB** Básico         |                     |
-  | 22:15 | `1`  |                       |                               |                     |
-  |       | `2`  |                       | **SyB** Intermedio            |                     |
-  |       | `3`  |                       |                               |                     |
-  {.horarios}
+rows:
+- type: columns
+  design:
+    num: 2
+  items:
+  - image: horarios-2025-2026.jpg
+    link: horarios-2025-2026.jpg
+# subtitle: 2023 - 2024
+# description: |
+#   | Hora  | Sala | Lunes y Miércoles     | Martes y Jueves               | Viernes             |
+#   | ----- | ---- | --------------------- | ----------------------------- | ------------------- |
+#   | 16:15 | `1`  | **Hip Hop** Youth     | **Fusión** 4                  | **Salsa** Medianas  |
+#   |       | `2`  | **Salsa** Kids        | **Fusión** 2                  |                     |
+#   |       | `3`  |                       | **Clásico** Inicio            |                     |
+#   | 17:15 | `1`  | **Hip Hop** Peques    | **Fusión** 3                  | **Cajón**           |
+#   |       | `2`  | **Flamenco** Peques 2 | **Babys** 2                   | **Salsa** Kids Mini |
+#   |       | `3`  | **Babys** 1           | **Fusión** Medianos 1         |                     |
+#   | 18:15 | `1`  | **Hip Hop** +18       | **Clásico** Peq / Mini Danza  | **Fusión** 1        |
+#   |       | `2`  | **Flamenco** Peques 1 | **Salsa** Peques 2            | **Sevillanas**      |
+#   |       | `3`  | **Fusión** Medianos 2 | **Fusión** Medianos 3         | **Salsanama**       |
+#   | 19:15 | `1`  | **Entr. Competición** | **Clásico** Junior            |                     |
+#   |       | `2`  | **Flamenco** Medianos | **Salsa** Peques 1            | **Baile Deportivo** |
+#   |       | `3`  | **Full Dance**        | **Full Dance**                |                     |
+#   | 20:15 | `1`  | **SyB** Básico        | **Estilo SyB** Intermedio     |                     |
+#   |       | `2`  | **Flamenco** Junior   | **Pilates**                   |                     |
+#   |       | `3`  | **Baile de Salón**    | **Estilo Chico**              |                     |
+#   | 21:15 | `1`  | **SyB** Inicio        | **SyB** Intermedio / Avanzado |                     |
+#   |       | `2`  | **Flamenco** Adultos  | **Danza del Vientre**         |                     |
+#   |       | `3`  | **Salsa Cubana**      | **Estilo SyB** Básico         |                     |
+#   | 22:15 | `1`  |                       |                               |                     |
+#   |       | `2`  |                       | **SyB** Intermedio            |                     |
+#   |       | `3`  |                       |                               |                     |
+#   {.horarios}

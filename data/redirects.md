@@ -1,3 +1,8 @@
+## general
+https://yaizatododanza.es/* https://yaizadancestudios.com/:splat 301!
+http://yaizatododanza.es/* https://yaizadancestudios.com/:splat 301!
+https://www.yaizatododanza.es/* https://yaizadancestudios.com/:splat 301!
+http://www.yaizatododanza.es/* https://yaizadancestudios.com/:splat 301!
 
 # yaizatododanza.es
 /politica-de-cookies/ /cookies/
@@ -14,9 +19,3 @@
 /zoom-meetings* /
 /wp-admin* /
 /author/* /
-
-## general
-https://yaizatododanza.es/* https://yaizadancestudios.com/:splat 301!
-http://yaizatododanza.es/* https://yaizadancestudios.com/:splat 301!
-https://www.yaizatododanza.es/* https://yaizadancestudios.com/:splat 301!
-http://www.yaizatododanza.es/* https://yaizadancestudios.com/:splat 301!
